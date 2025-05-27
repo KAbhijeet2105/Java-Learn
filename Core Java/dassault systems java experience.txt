@@ -1,0 +1,16 @@
+
+They mostly focused on what we are doing in the current project, so had a general discussion about my current work. 
+Then there was 2 questions on DSA, both medium level one about fibbonaci series and the other from string.
+Then he asked a few questions on java OOPS, exception handling and  a question about singleton. 
+Then he asked me few analytical ques for which he told me, i need to be quick in answering. So mostly apti ques like what's the angle between hour n minute hand at 5:30 like that. And then he asked me if i had any ques i asked a few about the work n company.
+The interviewer was very knowledgeable and clear in the topics and things which he asked.
+
+
+/////////////////////////////////
+
+Basic java concept and database question. Basic concept about MVC architecture.
+ Basic code to write in java.
+ Asked about oops concept and there real world example. 
+Question about he Multithreading . 
+How to implement it. 
+Collections questions were asked.
